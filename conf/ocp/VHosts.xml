@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root version="1">
+        <VHosts>
+       <VHost>
+            <Name>_mediestreamVHost_</Name>
+            <ConfigDir>/app/conf/wowza-mediestream-vhost</ConfigDir>
+            <ConnectionLimit>0</ConnectionLimit>
+        </VHost>
+	<!--<VHost>
+            <Name>_chaosChaosV6DomsVHost_</Name>
+            <ConfigDir>/app/conf/wowza_vhost_chaos_chaosv6_doms</ConfigDir>
+            <ConnectionLimit>0</ConnectionLimit>
+        </VHost>
+       <VHost>
+            <Name>_chaosChaosV6StageDomsVHost_</Name>
+            <ConfigDir>/app/conf/wowza_vhost_chaos_chaosv6_doms_stageapi</ConfigDir>
+            <ConnectionLimit>0</ConnectionLimit>
+        </VHost>
+        <VHost>
+            <Name>_chaosChaosV6VHost_</Name>
+            <ConfigDir>/app/conf/wowza_vhost_chaos_chaosv6</ConfigDir>
+            <ConnectionLimit>0</ConnectionLimit>
+        </VHost>
+        <VHost>
+            <Name>_chaosChaosV6StageVHost_</Name>
+            <ConfigDir>/app/conf/wowza_vhost_chaos_chaosv6_stageapi</ConfigDir>
+            <ConnectionLimit>0</ConnectionLimit>
+	</VHost>-->
+    </VHosts>
+</Root>
+
